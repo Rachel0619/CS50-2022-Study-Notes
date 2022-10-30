@@ -1,0 +1,21 @@
+This is  the notes for Lesson 2
+
+Before you start this session, you need to have access  to CS50 IDE, which is a 
+cloud-based version of VS code for teacher and students and you only need a broswer to  access.
+
+visit  ide.cs50.io/ 
+login in with your  github account
+
+CLI->Commend Line  Interface 
+GUI->Graphical User Interface
+ 
+command
+make  hello ->compile
+./hello.c ->execute
+
+source code->complie->machine code
+
+char->single character->use single quotes''
+string->multiple character->use double quotes""
+
+2038 problem: overflow
