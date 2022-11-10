@@ -1,5 +1,0 @@
-prompt user to enter an integer from 1 to 8, which is denoted as variable 'height'
-if it  isn't the valid input, return back to step 1
-for row i from  1 to n
-    for column  j from 1 to n
-        print (n-i) null and i # \n
