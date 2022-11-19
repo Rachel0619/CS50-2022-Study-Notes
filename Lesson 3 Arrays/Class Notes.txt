@@ -1,6 +1,0 @@
-Compiling includes  four  procedures:
-1. Preprocessing ->finds and  replaces the hash  includes symbols 
-2. Compiling ->turn source code into assembly language
-3. Assembling
-4. Linking
-
